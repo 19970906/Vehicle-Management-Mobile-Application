@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1078746363948",
+    "project_id": "auto-assist-f2416",
+    "storage_bucket": "auto-assist-f2416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078746363948:android:c57c1998196b913d06f989",
+        "android_client_info": {
+          "package_name": "com.autoassist.autoassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078746363948-etgvmm3ak0p4brbtqtl3g0n87unvd23v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autoassist.autoassist",
+            "certificate_hash": "54c6f5dacb46aad1d0964f02ee5bf29be9a362f8"
+          }
+        },
+        {
+          "client_id": "1078746363948-uq1v7gchcmsi1rgsjr4cqkn4gp1gaog7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecPq9ddjAO3zDcaIG47tjHa2rzak6qp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078746363948-uq1v7gchcmsi1rgsjr4cqkn4gp1gaog7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078746363948-lm3sq24fsvu2a3a524om02uqgeh964ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.autoassist.autoassist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
